@@ -7,7 +7,9 @@
 <details>
     <summary>
         <code>POST</code>
-        <code><b>/</b></code>
+        <code>
+            <b>/</b>
+        </code>
     </summary>
 
 ##### Headers
@@ -43,7 +45,9 @@
 <details>
     <summary>
         <code>GET</code>
-        <code><b>/</b></code>
+        <code>
+            <b>/</b>
+        </code>
         <code>Retrieve all Members</code>
     </summary>
 
@@ -83,7 +87,9 @@
 <details>
     <summary>
         <code>GET</code>
-        <code><b>/{id}</b></code>
+        <code>
+            <b>/{id}</b>
+        </code>
         <code>Retrieve a single Member</code>
     </summary>
 

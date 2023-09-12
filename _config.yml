@@ -16,4 +16,3 @@ gist:
 markdown: kramdown
 kramdown:
   input: GFM
-  parse_block_html: true
