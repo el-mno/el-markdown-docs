@@ -1,4 +1,5 @@
 ---
+layout: page
 title: API Documentation Sample
 permalink: /rest-api-docs
 ---
