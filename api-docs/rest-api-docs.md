@@ -1,8 +1,8 @@
 ---
-layout: markdown
 title: API Documentation Sample
 permalink: /rest-api-docs
 ---
+
 ## API Documentation for a _(fictitious)_ Membership API
 
 ---
@@ -25,9 +25,9 @@ permalink: /rest-api-docs
 
 > | http code | content-type               | response                                 |
 > | --------- | -------------------------- | ---------------------------------------- |
-> | `201`     | `text/plain;charset=UTF-8` | `Configuration created successfully`     |
+> | `201`     | `text/plain;charset=UTF-8` | `Member created successfully`            |
 > | `400`     | `application/json`         | `{"code":"400","message":"Bad Request"}` |
-> | `405`     | `text/html;charset=utf-8`  | None                                     |
+> | `405`     | `text/html;charset=utf-8`  | `None`                                   |
 
 ##### Example cURL
 
