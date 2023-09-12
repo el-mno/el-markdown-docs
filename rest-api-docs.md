@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 'REST API Documentation'
-permalink: /rest-api-documentation
 ---
 
 ## API Documentation for a *(fictitious)* Membership API
