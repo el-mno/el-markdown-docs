@@ -1,3 +1,7 @@
+---
+title: API Documentation Sample
+permalink: /rest-api-docs
+---
 ## API Documentation for a _(fictitious)_ Membership API
 
 ---
