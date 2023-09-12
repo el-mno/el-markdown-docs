@@ -4,7 +4,7 @@ title: 'REST API Documentation'
 permalink: /rest-api-documentation
 ---
 
-## API Documentation for a *(fictitious)* Membership API
+## API Documentation for a _(fictitious)_ Membership API
 
 ---
 
@@ -52,9 +52,9 @@ permalink: /rest-api-documentation
 
 ##### Responses
 
-> | http code | content-type               | response    |
-> | --------- | -------------------------- | ----------- |
-> | `200`     | `text/plain;charset=UTF-8` | JSON Object |
+> | http code | content-type               | response      |
+> | --------- | -------------------------- | ------------- |
+> | `200`     | `text/plain;charset=UTF-8` | `JSON Object` |
 
 ##### Example cURL
 
@@ -88,9 +88,9 @@ permalink: /rest-api-documentation
 
 ##### Responses
 
-> | http code | content-type               | response    |
-> | --------- | -------------------------- | ----------- |
-> | `200`     | `text/plain;charset=UTF-8` | JSON Object |
+> | http code | content-type               | response      |
+> | --------- | -------------------------- | ------------- |
+> | `200`     | `text/plain;charset=UTF-8` | `JSON Object` |
 
 ##### Example cURL
 
