@@ -4,14 +4,14 @@ title: 'REST API Documentation'
 permalink: /rest-api-documentation
 ---
 
-## API Documentation for a _(fictitious)_ Membership API
+## API Documentation for a *(fictitious)* Membership API
 
 ---
 
 #### Create New Member
 
 <details>
- <summary markdown="block"><code>POST</code> <code><b>/</b></code></summary>
+ <summary><code>POST</code> <code><b>/</b></code></summary>
 
 ##### Headers
 
@@ -44,7 +44,7 @@ permalink: /rest-api-documentation
 #### Retrieving Member Info
 
 <details>
- <summary markdown="block"><code>GET</code> <code><b>/</b></code> <code>Retrieve all Members</code></summary>
+ <summary><code>GET</code> <code><b>/</b></code> <code>Retrieve all Members</code></summary>
 
 ##### Parameters
 
@@ -80,7 +80,7 @@ permalink: /rest-api-documentation
 </details>
 
 <details>
- <summary markdown="block"><code>GET</code> <code><b>/{id}</b></code> <code>Retrieve a single Member</code></summary>
+ <summary><code>GET</code> <code><b>/{id}</b></code> <code>Retrieve a single Member</code></summary>
 
 ##### Parameters
 
