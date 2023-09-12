@@ -4,8 +4,8 @@
 
 #### Create New Member
 
-<details>
-    <summary>
+<details markdown="1">
+    <summary markdown="span">
         <code>POST</code>
         <code>
             <b>/</b>
@@ -42,8 +42,8 @@
 
 #### Retrieving Member Info
 
-<details>
-    <summary>
+<details markdown="1">
+    <summary markdown="span">
         <code>GET</code>
         <code>
             <b>/</b>
