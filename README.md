@@ -3,10 +3,10 @@ ___
 Welcome to my portfolio repository! This repository showcases some of my technical writing samples and provides an idea of what to expect. As a technical writer, I am passionate about delivering complex information in a clear and understandable manner, and I hope this portfolio reflects my dedication to that goal.
 
 # Table of Contents
-[About Me](#about-me)
-[Samples](#samples)
-[Projects](#projects)
-[Contact Information](#contact)
+[About Me](#about-me)\
+[Samples](#samples)\
+[Projects](#projects)\
+[Contact Information](#contact)\
 
 ## About Me
 I am a Software Engineer by trade with a strong background in communication and translating technical concepts into user-friendly documentation. I strive to create documentation that empowers users, developers, and stakeholders alike using a user-centric approach.
