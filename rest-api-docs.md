@@ -4,7 +4,7 @@ title: 'REST API Documentation'
 permalink: /rest-api-documentation
 ---
 
-## Sample REST API Documentation for a fictitious membership API
+## API Documentation for a *(fictitious)* Membership API
 
 ---
 
