@@ -21,7 +21,7 @@ In this repository, you will find a selection of my technical writing samples th
 
 ## Documentation Samples
 * [User Manual]()
-* [API Documentation](rest-api-docs.md)
+* [API Documentation](api-docs/rest-api-docs.md)
 * [Tech Comparison]()
 
 ## Projects
