@@ -4,13 +4,7 @@
 
 #### Create New Member
 
-<details markdown="1">
-    <summary markdown="span">
-        <code>POST</code>
-        <code>
-            <b>/</b>
-        </code>
-    </summary>
+<details markdown="1"><summary markdown="span"><code>POST</code><code><b>/</b></code></summary>
 
 ##### Headers
 
@@ -42,14 +36,7 @@
 
 #### Retrieving Member Info
 
-<details markdown="1">
-    <summary markdown="span">
-        <code>GET</code>
-        <code>
-            <b>/</b>
-        </code>
-        <code>Retrieve all Members</code>
-    </summary>
+<details markdown="1"><summary markdown="span"><code>GET</code><code><b>/</b></code><code>Retrieve all Members</code></summary>
 
 ##### Parameters
 
@@ -84,14 +71,7 @@
 
 </details>
 
-<details>
-    <summary>
-        <code>GET</code>
-        <code>
-            <b>/{id}</b>
-        </code>
-        <code>Retrieve a single Member</code>
-    </summary>
+<details markdown="1"><summary markdown="span"><code>GET</code><code><b>/{id}</b></code><code>Retrieve a single Member</code></summary>
 
 ##### Parameters
 
