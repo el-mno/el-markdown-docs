@@ -20,7 +20,7 @@ My expertise includes:
 In this repository, you will find a selection of my technical writing samples that demonstrate my ability to communicate complex technical information effectively. Here are some highlights:
 
 ## Documentation Samples
-* [User Manual](manuals/)
+* [User Manual](how-to/docker-node-webapp.md)
 * [API Documentation](api-docs/rest-api-docs.md)
 * [Tech Comparison](tech/fargate-lambda-comparison.md)
 

@@ -47,6 +47,7 @@ _Last Modified: 2023-09-13_
 > ```
 
 </details>
+<br />
 
 ---
 
@@ -181,6 +182,7 @@ _Last Modified: 2023-09-13_
 > ```
 
 </details>
+<br />
 
 ---
 
@@ -238,6 +240,7 @@ _Last Modified: 2023-09-13_
 > ```
 
 </details>
+<br />
 
 ---
 
