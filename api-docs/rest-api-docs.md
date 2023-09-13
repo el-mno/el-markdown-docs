@@ -1,7 +1,3 @@
----
-title: API Documentation Sample
----
-
 ## API Documentation for a _(fictitious)_ Membership API
 
 _Last Modified: 2023-09-13_
@@ -12,7 +8,13 @@ _Last Modified: 2023-09-13_
 
 <details markdown="1"><summary markdown="span"><code>[POST] - Create new Member</code></summary>
 
-> **Endpoint:** `<base-url>/`
+<br />
+
+**Endpoint:** `<base-url>/`
+
+##### Description:
+
+> Create a new Member record in the database. The record will be created with the parameters provided in the request body and assigned an auto-generated unique ID number.
 
 ##### Headers
 
@@ -47,7 +49,6 @@ _Last Modified: 2023-09-13_
 > ```
 
 </details>
-<br />
 
 ---
 
@@ -55,9 +56,15 @@ _Last Modified: 2023-09-13_
 
 <details markdown="1"><summary markdown="span"><code>[GET] - Retrieve Member(s)</code></summary>
 
-> **Endpoint:** `<base-url>/members`
+<br />
 
-##### Parameters
+**Endpoint:** `<base-url>/members`
+
+##### Description:
+
+> Get all of the Members in the database.
+
+##### Query Parameters
 
 > `None`
 
@@ -92,7 +99,13 @@ _Last Modified: 2023-09-13_
 
 <details markdown="1"><summary markdown="span"><code>[GET] - Retrieve Member by ID</code></summary>
 
-> **Endpoint:** `<base-url>/{id}`
+<br />
+
+**Endpoint:** `<base-url>/{id}`
+
+##### Description:
+
+> Get the Member object corresponding to the `id` parameter provided.
 
 ##### Headers
 
@@ -131,13 +144,23 @@ _Last Modified: 2023-09-13_
 
 <details markdown="1"><summary markdown="span"><code>[POST] - Find Member(s)</code></summary>
 
+<br />
+
 > **Endpoint:** `<base-url>/{id}`
+
+##### Description:
+
+> Retrieve all Member objects that match the parameters provided in the `Request Body`.
 
 ##### Headers
 
 > `N/A`
 
 ##### Query Parameters
+
+> `None`
+
+##### Request Body
 
 > `One parameter required`
 
@@ -190,7 +213,13 @@ _Last Modified: 2023-09-13_
 
 <details markdown="1"><summary markdown="span"><code>[PUT] - Update Member by ID</code></summary>
 
+<br />
+
 > **Endpoint:** `<base-url>/{id}`
+
+##### Description
+
+> Update the Member matching the `id` query parameter with the attributes in the `Request Body`.
 
 ##### Headers
 
@@ -203,6 +232,13 @@ _Last Modified: 2023-09-13_
 > | name | type     | data type     | description                  |
 > | ---- | -------- | ------------- | ---------------------------- |
 > | `id` | required | number (uuid) | The member unique identifier |
+
+##### Request Body
+
+> | name    | type     | data type | description                |
+> | ------- | -------- | --------- | -------------------------- |
+> | `name`  | required | string    | The member's name          |
+> | `email` | required | string    | The member's email address |
 
 ##### Responses
 
@@ -248,7 +284,13 @@ _Last Modified: 2023-09-13_
 
 <details markdown="1"><summary markdown="span"><code>[DELETE] - Delete Member by ID</code></summary>
 
+<br />
+
 > **Endpoint:** `<base-url>/{id}`
+
+##### Description
+
+> Delete the Member record corresponding to the `id` provided.
 
 ##### Headers
 

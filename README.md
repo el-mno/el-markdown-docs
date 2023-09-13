@@ -21,7 +21,7 @@ In this repository, you will find a selection of my technical writing samples th
 
 ## Documentation Samples
 * [User Manual](how-to/docker-node-webapp.md)
-* [API Documentation](api-docs/rest-api-docs.md)
+* [API Documentation](https://github.com/el-mno/el-mno.github.io/blob/main/api-docs/rest-api-docs.md)
 * [Tech Comparison](tech/fargate-lambda-comparison.md)
 
 ## Projects
