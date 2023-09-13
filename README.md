@@ -20,9 +20,9 @@ My expertise includes:
 In this repository, you will find a selection of my technical writing samples that demonstrate my ability to communicate complex technical information effectively. Here are some highlights:
 
 ## Documentation Samples
-* [User Manual]()
+* [User Manual](manuals/)
 * [API Documentation](api-docs/rest-api-docs.md)
-* [Tech Comparison]()
+* [Tech Comparison](tech/fargate-lambda-comparison.md)
 
 ## Projects
 In addition to the samples provided, I have worked on various projects that involved creating documentation for both internal and external audiences. While these projects may not be included in this repository due to confidentiality or space limitations, I am more than happy to discuss them in detail upon request.
