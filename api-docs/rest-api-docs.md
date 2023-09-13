@@ -12,7 +12,7 @@ _Last Modified: 2023-09-13_
 
 <details markdown="1"><summary markdown="span"><code>[POST] - Create new Member</code></summary>
 
-`API endpoint: <base-url>/`
+> **Endpoint:** `<base-url>/`
 
 ##### Headers
 
@@ -55,7 +55,7 @@ _Last Modified: 2023-09-13_
 
 <details markdown="1"><summary markdown="span"><code>[GET] - Retrieve Member(s)</code></summary>
 
-`API endpoint: <base-url>/members`
+> **Endpoint:** `<base-url>/members`
 
 ##### Parameters
 
@@ -70,7 +70,7 @@ _Last Modified: 2023-09-13_
 ##### Example cURL
 
 > ```javascript
->  curl -X GET -H "Content-Type: application/json" http://localhost:8080/
+>  curl -X GET -H "Content-Type: application/json" http://localhost:8080/members
 > ```
 
 ##### Sample response
@@ -92,7 +92,7 @@ _Last Modified: 2023-09-13_
 
 <details markdown="1"><summary markdown="span"><code>[GET] - Retrieve Member by ID</code></summary>
 
-`API endpoint: <base-url>/{id}`
+> **Endpoint:** `<base-url>/{id}`
 
 ##### Headers
 
@@ -131,7 +131,7 @@ _Last Modified: 2023-09-13_
 
 <details markdown="1"><summary markdown="span"><code>[POST] - Find Member(s)</code></summary>
 
-`API endpoint: <base-url>/{id}`
+> **Endpoint:** `<base-url>/{id}`
 
 ##### Headers
 
@@ -157,7 +157,7 @@ _Last Modified: 2023-09-13_
 ##### Example cURL
 
 > ```javascript
->  curl -X POST -H "Content-Type: application/json" --data @input.json http://localhost:8080/
+>  curl -X POST -H "Content-Type: application/json" --data @input.json http://localhost:8080/{id}
 > ```
 
 ##### Sample response
@@ -190,7 +190,7 @@ _Last Modified: 2023-09-13_
 
 <details markdown="1"><summary markdown="span"><code>[PUT] - Update Member by ID</code></summary>
 
-`API endpoint: <base-url>/{id}`
+> **Endpoint:** `<base-url>/{id}`
 
 ##### Headers
 
@@ -248,7 +248,7 @@ _Last Modified: 2023-09-13_
 
 <details markdown="1"><summary markdown="span"><code>[DELETE] - Delete Member by ID</code></summary>
 
-`API endpoint: <base-url>/{id}`
+> **Endpoint:** `<base-url>/{id}`
 
 ##### Headers
 

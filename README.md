@@ -15,7 +15,7 @@ My expertise includes:
 * **API Documentation**: Creating clear documentation around API functionalities, endpoints, and code examples.
 * **Tutorials**: Designing step-by-step guides to help users accomplish tasks.
 * **Release Notes**: Summarizing product updates and enhancements that are easy to refer back to for tracking features.
-**Markdown, HTML, and Git**: Proficient in markup languages and version control.
+*Markdown, HTML, and Git*: Proficient in markup languages and version control.
 
 In this repository, you will find a selection of my technical writing samples that demonstrate my ability to communicate complex technical information effectively. Here are some highlights:
 
@@ -30,4 +30,4 @@ In addition to the samples provided, I have worked on various projects that invo
 If you have any questions, would like to see more samples, or have a project you'd like to collaborate on, please don't hesitate to reach out to me.
 
 ## Contact
-If you have any questions, comments, or otherwise would like to reach out, you can e-mail me at: danielmpark7@gmail.com
+If you have any questions, comments, or otherwise would like to reach out, you can e-mail me at: [danielmpark7@gmail.com](mailto:danielmpark7@gmail.com)
