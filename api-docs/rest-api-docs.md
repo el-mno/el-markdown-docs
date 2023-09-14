@@ -1,6 +1,5 @@
 ## API Documentation for a _(fictitious)_ Membership API
 
-_Last Modified: 2023-09-13_
 
 ---
 
@@ -24,7 +23,7 @@ _Last Modified: 2023-09-13_
 
 ##### Query Parameters
 
-> `None`
+`None`
 
 ##### Request Body
 
@@ -66,7 +65,7 @@ _Last Modified: 2023-09-13_
 
 ##### Query Parameters
 
-> `None`
+`None`
 
 ##### Responses
 
@@ -109,7 +108,7 @@ _Last Modified: 2023-09-13_
 
 ##### Headers
 
-> `N/A`
+`None`
 
 ##### Query Parameters
 
@@ -154,11 +153,11 @@ _Last Modified: 2023-09-13_
 
 ##### Headers
 
-> `N/A`
+`None`
 
 ##### Query Parameters
 
-> `None`
+`None`
 
 ##### Request Body
 
