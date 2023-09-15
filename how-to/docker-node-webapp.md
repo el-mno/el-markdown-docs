@@ -82,6 +82,7 @@ docker run -dp localhost:3000:3000 <username>/docker-react-webapp
 ```
 
 * After a little time to create/run the container, if you open `localhost:3000` in your browser, you should see a default landing page for React.
+<br />
 <img src="/assets/images/react-docker-example.png" alt="dockerized-react-example" width="300"/>
 
 _You did it!_ You have a Docker Container for your React Webapp!
